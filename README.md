@@ -31,12 +31,16 @@ In 2015, the restaurant generated **$817.86K in Total Revenue** from **21.35K or
 
 **Overview**
 
-![Dashboard Overview](images/hr.dashboard.png)
+![Dashboard Overview](images/s.pizzaoverview.png)
+
+**Best/Worst Sellers**
+
+![Dashboard Overview](images/s.pizzabest&worst.png)
 
 # Insights Deep Dive
-### Department Analysis: R&D as the Primary Attrition Driver
-* The R&D department has the highest attrition with **133** employees leaving, followed by Sales (**92**).
-* R&D represents more than half of the total company turnover. HR needs to investigate if this is due to high-pressure environments or uncompetitive pay in technical roles.
+### Revenue Leaders: Thai Chicken and Classic Deluxe
+* The **Thai Chicken Pizza** generates the highest revenue ($43K), while the **Classic Deluxe** leads in total quantity (2.5K pizzas) and total orders.
+* Even though Classic Deluxe sells more often, Thai Chicken is a higher-margin item that contributes more to the bottom line per sale.
 
 ![Dashboard Overview](images/hr.departmentanalysis.png)
 
