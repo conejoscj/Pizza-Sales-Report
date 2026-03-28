@@ -42,26 +42,27 @@ In 2015, the restaurant generated **$817.86K in Total Revenue** from **21.35K or
 * The **Thai Chicken Pizza** generates the highest revenue ($43K), while the **Classic Deluxe** leads in total quantity (2.5K pizzas) and total orders.
 * Even though Classic Deluxe sells more often, Thai Chicken is a higher-margin item that contributes more to the bottom line per sale.
 
-![Dashboard Overview](images/hr.departmentanalysis.png)
+![Dashboard Overview](images/s.revenue.png)
 
-### Age Group Analysis: High Turnover in Young Professionals
-  * The **25–34** age group has the highest number of departures (**112 employees**).
-  * This group makes up nearly **47%** of total attrition. Younger employees are likely leaving for better career growth opportunities elsewhere.
-![Dashboard Overview](images/hr.agegroup.png)
+### Temporal Peaks: Friday Nights and Summer/Winter Spikes
+  * Orders are highest on **Friday** and **Saturday** evenings. Monthly, the peaks occur in **January** and **July**.
+  * July is likely a peak due to summer holidays, and January due to New Year events. Sundays are the slowest days of the week.
+![Dashboard Overview](images/s.peaks.png)
 
-### Education Analysis: Life Sciences and Medical Fields
-* Employees with Life Sciences (**89**) and Medical (**63**) backgrounds are the most likely to leave.
-* There is a high demand for these skills in the market. The company may be losing specialized talent to competitors.
+### Size and Category Preferences: Large and Classic
+* **Large** pizzas account for nearly **46%** of all sales. The **Classic** category is the most popular, followed by Supreme and Veggie.
+* Customers prefer the value and size of "Large" pizzas across all categories. Extra-Large (XL) and XXL make up less than 2% of sales.
   
-![Dashboard Overview](images/hr.educationanalysis.png)
+![Dashboard Overview](images/s.category.png)
 
-### Role & Satisfaction: Low Ratings in Laboratory and Sales
-* Laboratory Technicians and Sales Executives have some of the highest counts of "Level 1" (lowest) satisfaction scores.
-* These roles are high-stress. The data shows **56** Lab Techs gave the lowest satisfaction rating, which correlates with high attrition in the R&D department.
+### The Bottom Performers: The Brie Carre Issue
+* The **Brie Carre Pizza** is the worst seller across all metrics (Revenue, Quantity, and Orders).
+* This pizza only generated $12K compared to the top seller's $43K. It is likely a niche flavor that does not appeal to the general customer base.
 
-![Dashboard Overview](images/hr.satisfactionanalysis.png)
+![Dashboard Overview](images/s.bottom.png)
 
 # Recommendations
-* **R&D Retention Program**: Conduct "Stay Interviews" in the R&D department to understand why 56% of departures are happening there.
-* **Career Pathing for 25–34 Year Olds**: Since this group leaves the most, implement a clear 2-year promotion track to keep them engaged.
-* **Role-Specific Support**: Improve the working conditions for Laboratory Technicians and Sales Executives to raise their job satisfaction scores from Level 1 to Level 3.
+* **Inventory Focus**: Ensure maximum stock of **Classic Deluxe** ingredients on **Fridays and Saturdays** to prevent stockouts during peak hours.
+* **Menu Optimization**: Consider removing or rebranding the **Brie Carre Pizza**, as it has the lowest demand and lowest revenue.
+* **Promotional Strategy**: Launch "Bundle Deals" on Sundays (the slowest day) to increase the average order value and utilize kitchen capacity.
+* **Upselling Size**: Since **Large** is the favorite, create a "Combo Upgrade" to move customers from Medium to Large for a small price increase to boost revenue.
