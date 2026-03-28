@@ -17,17 +17,19 @@ The data is structured to capture every single transaction throughout the year.
 
 **Entity Relationship Diagram (ERD):**
 
-![Data Model](images/hr.datamodel.png)
+![Data Model](images/s.datamodel.png)
 
 # Executive Summary
-The organization currently has **1,470** employees with an overall **Attrition Rate of 16.12%** (237 people have left). The **R&D department** accounts for over half of all attrition (**56.12%**). Most employees who leave are in the **25–34** age bracket, and a significant number come from a **Life Sciences** education background. While the average age is **37**, the "Under 25" and "25–34" groups show the highest vulnerability to leaving.
+In 2015, the restaurant generated **$817.86K in Total Revenue** from **21.35K orders**. On average, each order contains **2.32 pizzas** with a value of **$38.31**. The **Classic** category is the top performer in volume, while **Large** pizzas drive the most sales by size. While weekends (Friday/Saturday) are the busiest, there is a significant opportunity to improve sales for underperforming items like the **Brie Carre Pizza**.
 
 **High-Level Metrics**
-* **Overall Employees**: 1,470
-* **Attrition**: 237
-* **Attrition Rate**: 16.12%
-* **Active Employees**: 1,233
-* **Average Age**: 37
+* **Total Revenue**: $817,860
+* **Average Order Value**: $38.31
+* **Total Pizzas Sold**: 49,570
+* **Total Orders**: 21,350
+* **Average Pizzas Per Order**: 2.32
+
+**Overview**
 
 ![Dashboard Overview](images/hr.dashboard.png)
 
